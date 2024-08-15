@@ -1,6 +1,6 @@
 # PLANO DE NEGÓCIOS DESENVOLVIDO COM ASSISTÊNCIA DA I.A. MS Copilot atráves do browser MS Edge
 Série de prompts de uma conversa com I.A. para fazer um exercício hands-on do Microsoft Learn, acessado na data 14/ago/2024 em <https://aka.ms/ai900-bing-copilot>.
-Obs.: eis a cópia da webpage: ![Explore Microsoft Copilot in Microsoft Edge](mslearn-ai-fundamentals.pdf)
+Obs.: eis a cópia da webpage: [Explore Microsoft Copilot in Microsoft Edge](mslearn-ai-fundamentals.pdf)
 
 ### PROMPT 01
 What is this document about?
@@ -102,13 +102,13 @@ Create a corporate logo for the cleaning company. The logo should be round and i
 
 ##### Imagens geradas
 
-![Logomarca que foi gerada](img\Prompt05\_7db39151-fd62-4230-8c48-e5bcf14b8390.jpeg)
+![Logomarca que foi gerada](img/Prompt05/_7db39151-fd62-4230-8c48-e5bcf14b8390.jpeg)
 
-![Logomarca que foi gerada](img\Prompt05\_55481bfa-e3e8-4acc-8ea6-815cf9568ebf.jpeg)
+![Logomarca que foi gerada](img/Prompt05/_55481bfa-e3e8-4acc-8ea6-815cf9568ebf.jpeg)
 
-![Logomarca que foi gerada](img\Prompt05\_d4f326b6-5e56-45e5-826a-825cbe543c48.jpeg)
+![Logomarca que foi gerada](img/Prompt05/_d4f326b6-5e56-45e5-826a-825cbe543c48.jpeg)
 
-![Logomarca que foi gerada](img\Prompt05\_e1b42ace-6a6e-4f4f-91b5-eb51e32dc771.jpeg)
+![Logomarca que foi gerada](img/Prompt05/_e1b42ace-6a6e-4f4f-91b5-eb51e32dc771.jpeg)
 
 ### PROMPT 06 
 Add a mop or broom to represent cleaning.
@@ -116,13 +116,13 @@ Add a mop or broom to represent cleaning.
 
 ##### Imagens geradas
 
-![Logomarca que foi gerada](img\Prompt06\_6f64947b-201e-47b3-a44e-fa49338cf8d3.jpeg)
+![Logomarca que foi gerada](img/Prompt06/_6f64947b-201e-47b3-a44e-fa49338cf8d3.jpeg)
 
-![Logomarca que foi gerada](img\Prompt06\_70c19802-1aa6-4845-b758-36bd34952c52.jpeg)
+![Logomarca que foi gerada](img/Prompt06/_70c19802-1aa6-4845-b758-36bd34952c52.jpeg)
 
-![Logomarca que foi gerada](img\Prompt06\_05115353-a363-4eb7-925d-b4bfc9e452a4.jpeg)
+![Logomarca que foi gerada](img/Prompt06/_05115353-a363-4eb7-925d-b4bfc9e452a4.jpeg)
 
-![Logomarca que foi gerada](img\Prompt06\_ff488639-8e25-4055-b526-a43eba7ba1a7.jpeg)
+![Logomarca que foi gerada](img/Prompt06/_ff488639-8e25-4055-b526-a43eba7ba1a7.jpeg)
 
 ### PROMPT 07
 Make it colorful and vibrant.
@@ -130,13 +130,13 @@ Make it colorful and vibrant.
 
 ##### Imagens geradas
 
-![Logomarca que foi gerada](img\Prompt07\_859ca186-7479-493b-a723-13037c8257d3.jpeg)
+![Logomarca que foi gerada](img/Prompt07/_859ca186-7479-493b-a723-13037c8257d3.jpeg)
 
-![Logomarca que foi gerada](img\Prompt07\_32604635-e67f-4eea-98d2-51c4c2ae678a.jpeg)
+![Logomarca que foi gerada](img/Prompt07/_32604635-e67f-4eea-98d2-51c4c2ae678a.jpeg)
 
-![Logomarca que foi gerada](img\Prompt07\_b04b5fea-88b7-4ad9-8092-fd100b65a610.jpeg)
+![Logomarca que foi gerada](img/Prompt07/_b04b5fea-88b7-4ad9-8092-fd100b65a610.jpeg)
 
-![Logomarca que foi gerada](img\Prompt07\_de87bb0d-943f-40dc-8874-d35465f81805.jpeg)
+![Logomarca que foi gerada](img/Prompt07/_de87bb0d-943f-40dc-8874-d35465f81805.jpeg)
 
 ### PROMPT 08
 Write a summary of the benefits of using a corporate cleaning company for your business. The summary should consist of five short bullet points.
@@ -155,13 +155,13 @@ Would you like more details on any of these points?
 Create a photorealistic image of a clean office.
 #### ANSWER 09 [https://www.bing.com/images/create/a-clean-office/1-66bd375f629a451db64e3564ce29f2a5?id=ZChzPuR6ik6CN1bY45ncJA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2._918TxHffQoHjYYz7BOs&frame=sydedg&skey=BsbgsQTenM7rqj3Rsw2MeFuBskTQDBS2TF7DSNPxWrk&FORM=SYDBIC]
 Imagens geradas 
-![Um escritório limpo](img\Prompt09\_09f6d513-1516-4f1d-87bf-dd26a4924c76.jpeg)
+![Um escritório limpo](img/Prompt09/_09f6d513-1516-4f1d-87bf-dd26a4924c76.jpeg)
 
-![Um escritório limpo](img\Prompt09\_19bdc829-a5cf-4c92-b9fe-607467ca8435.jpeg)
+![Um escritório limpo](img/Prompt09/_19bdc829-a5cf-4c92-b9fe-607467ca8435.jpeg)
 
-![Um escritório limpo](img\Prompt09\_43b82b43-f256-4a05-9d3b-7abaf71c7bff.jpeg)
+![Um escritório limpo](img/Prompt09/_43b82b43-f256-4a05-9d3b-7abaf71c7bff.jpeg)
 
-![Um escritório limpo](img\Prompt09\_eb9653f2-9b95-4feb-beb9-1dbce70f826d.jpeg)
+![Um escritório limpo](img/Prompt09/_eb9653f2-9b95-4feb-beb9-1dbce70f826d.jpeg)
 
 ### Prompt 10
 **Obs.: este prompt foi feito da guia *Redação***
