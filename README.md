@@ -1,4 +1,4 @@
-# PLANO DE NEGÓCIOS DESENVOLVIDO COM ASSISTÊNCIA DA I.A. MS Copilot atráves do browser MS Edge
+# Plano de negócios desenvolvido com assistência da I.A. MS Copilot atráves do browser MS Edge
 
 Este projeto é um laboratório criado pelo Microsoft Learning que está disponível em <https://aka.ms/ai900-bing-copilot> e que foi acessado na data de 14/ago/2024.
 
