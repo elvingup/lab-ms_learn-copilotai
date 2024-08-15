@@ -7,4 +7,5 @@ A cópia PDF está anexa neste mesmo projeto no arquivo [Explore Microsoft Copil
 - a produção de uma apresentação; eis o arquivo: [Business Presentation](Business-Presentation.pptx);
 - a geração de um esboço de mensagem de e-mail, disponibilizado na resposta ao Prompt 10 no arquivo [prompts.md](prompts.md).
 
-Obs.: o arquivo ![screen.png](img/screen.png) tem um print da tela à modo de exemplo da efetuação do laboratório.
+#### Print da tela à modo de exemplo da efetuação do laboratório.
+![screen.png](img/screen.png) 
